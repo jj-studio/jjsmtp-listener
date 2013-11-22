@@ -1,4 +1,4 @@
-# mitm-smtp-listener
+# jjsmtp-listener
 
 _mitm-smtp-listener_ acts as a SMTP-server with a self-signed certificate, however behaves differently at certain points of the ESMTP protocol in order to eavesdrop on the username and password.  
 It was originally developed for man-in-the-middle attacks on networks and works well with [Subterfuge](http://code.google.com/p/subterfuge/), an automated man-in-the-middle attack framework.
