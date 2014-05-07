@@ -55,3 +55,7 @@ There is no implementation of listening to which SMTP-server any mail is actuall
 ## Getting the credentials
 
 Raw-Text username rolls in on line 161, raw-text password rolls in on line 166. Do whatever you want, but please be careful!
+
+## ATTENTION
+
+Performing MITM attacks on networks is an illegal act. Use only for testing/academic purposes.
